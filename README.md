@@ -1,1 +1,1 @@
-# MegaSenaAPI
+# Mega Sena API
